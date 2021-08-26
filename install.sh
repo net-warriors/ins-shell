@@ -1,6 +1,4 @@
-#!/bin/bash
-#Author: github.com/g0r60n
-#Instagram: @g0r60n
+
 trap 'echo exiting cleanly...; exit 1;' SIGINT SIGTSTP
 
 checkroot() {
