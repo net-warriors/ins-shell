@@ -6,12 +6,19 @@ Instashell is an Shell Script to perform multi-threaded brute force attack again
 🌀Follow this Commands Step By Step
 
 $apt update && upgrade
+
 $termux-setup-storage
+
 $pkg install git
+
 $pkg install wget
+
 $pkg install openssl-tool
+
 $pkg install nano
-$$pkg install tor
+
+$pkg install tor
+
 $tor
 
 **Start New Session**
@@ -19,7 +26,9 @@ $tor
 $ git clone https://github.com/net-warriors/ins-shell.git
 
 $ls
+
 $cd Instashell
+
 $chmod 777 *
 
 ** You can use preset wordlist or create your own wordlist as shown in the video**
