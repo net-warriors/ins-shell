@@ -27,7 +27,7 @@ $ git clone https://github.com/net-warriors/ins-shell.git
 
 $ls
 
-$cd Instashell
+$cd Ins-shell
 
 $chmod 777 *
 
